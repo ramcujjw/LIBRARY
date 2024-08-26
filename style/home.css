@@ -1,0 +1,57 @@
+.book-container {
+    padding: 20px 0;
+}
+
+.book-image {
+    max-height: 400px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.book-description {
+    padding: 20px;
+}
+
+.book-container h2 {
+    margin-bottom: 20px;
+}
+
+.more-books-link {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+}
+
+.more-books-link:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
+footer {
+    background-color: #f8f9fa;
+    padding-top: 20px;
+}
+
+footer h5 {
+    font-size: 1.25rem;
+}
+
+footer a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+footer .bg-dark {
+    background-color: #343a40 !important;
+}
+
+footer .text-light {
+    color: #f8f9fa !important;
+}
+
+

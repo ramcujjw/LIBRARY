@@ -1,0 +1,59 @@
+
+
+body {
+    background-image: url('/pics/pic3.webp');
+    background-size:  100%;
+    background-color: #f0f2f5;
+    font-family: Arial, sans-serif;
+    
+} 
+
+.containerlogin {
+    max-width: 600px;
+    margin: 90px auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+h2{
+    margin-left: 25%;
+}
+
+.form-label {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.form-control {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+}
+
+.btn {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+   
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border: none;
+}
+
+.btn-danger:hover {
+    background-color: #c82333;
+}
+button{
+    text-decoration: none;
+}
+p{
+    margin-top: 2px;
+    margin-left: 25%;
+}
